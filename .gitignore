@@ -4,3 +4,4 @@ tasks.json
 info.plist
 .gitignore.swp
 .gitignore.swo
+/hello.DSYM/
