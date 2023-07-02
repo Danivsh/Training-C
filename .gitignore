@@ -5,3 +5,4 @@ info.plist
 .gitignore.swp
 .gitignore.swo
 /hello.DSYM/
+.README.md.swp
